@@ -42,6 +42,9 @@ You need the following to configure conditional access with Jamf Pro:
 - [Company Portal app for macOS](https://aka.ms/macoscompanyportal)
 - macOS devices with OS X 10.11 Yosemite or later
 
+ > [!NOTE]
+    > You cannot add multiple Jamf Pro instance to one Intune tenant, currently we only support one Jamf instance per tenant
+
 ## Connecting Intune to Jamf Pro
 
 To connect Intune with Jamf Pro you:
